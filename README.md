@@ -3,7 +3,7 @@
 ## This is a list of public projects I'm proud of:
 
 1. [reetou/mnogobot](https://github.com/reetou/mnogobot) - DSL for writing social media bots. Not 100% working, but cool concept and syntax
-2. [reetou/croc](https://github.com/reetou/croc) - Monopoly game like monopoly-one but for VK.com. Was rejected because of design, my first big pet-project with Elixir + Phoenix stack
+2. [reetou/croc](https://github.com/reetou/croc) - Monopoly game like monopoly-one but for VK.com. Was rejected because of design, my first big pet-project with Elixir + Phoenix stack, a lot of tests here.
 3. [reetou/apper](https://github.com/reetou/apper) - Mobile app builder. Construct your app via web interface using react-native-web, save it as json and then create a project from it. Wasn't released but cool concept and was fully working for iOS. I used Gitlab pipelines for building bundles and limited it to 1 concurrent job in order to simplify request queue handling. 
 4. [reetou/apperback](https://github.com/reetou/apperback) - Elixir backend for Apper.
 5. [reetou/tinkoff-invest-elixir](https://github.com/reetou/tinkoff-invest-elixir) - Elixir SDK for Tinkoff Invest REST API. 
